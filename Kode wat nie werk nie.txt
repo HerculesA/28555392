@@ -1,0 +1,44 @@
+                    //ProgressOFProcess(prgOne);
+                //}
+               /* if (ProsesNommer[i] == 2)
+                {
+                    //Buttons word vertoon soos prosesse hardloop
+                    for (int a = 0; a < Pcount; a++)
+                    {
+                        //if (counter % 2 == 0)
+                        //{
+                            if (arrivalTime[a] <= counter)
+                            {
+                                burstTime[a] = burstTime[a] - 1;
+                                arrivalTime[a] = arrivalTime[a] + 1;
+                            if (process[a] == "P2" && Val2 < prgTwo.Maximum)
+                            {
+                                ProgressOFProcess(arrPrg[1]);
+                                Val2++;
+                            }
+                        }
+                       // }
+                    }
+                }
+                if (ProsesNommer[i] == 3)
+                {
+                    //Buttons word vertoon soos prosesse hardloop
+                    for (int a = 0; a < Pcount; a++)
+                    {
+                        //if (counter % 2 == 0)
+                       // {
+                            if (arrivalTime[a] <= counter)
+                            {
+                                /*burstTime = Length of Process
+                                burstTime[a] = burstTime[a] - 1;
+                                /*ArrivalTime = The start time of a Process
+                                 arrivalTime[a] = arrivalTime[a] + 1;
+                            if (process[a] == "P3" && Val3 < prgThree.Maximum)
+                            {
+                                ProgressOFProcess(arrPrg[2]);
+                                Val3++;
+                            }
+                        }
+                        //}
+                    }
+                }*/
